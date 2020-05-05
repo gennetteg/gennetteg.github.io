@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "How I started coding."
-date:       2020-05-05 00:53:54 +0000
+date:       2020-05-04 20:53:55 -0400
 permalink:  how_i_started_coding
 ---
 
